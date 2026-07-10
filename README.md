@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://ryancswallace.dev">Website</a> ·
-  <a href="https://github.com/ryancswallace/resume">Résumé</a> ·
+  <a href="https://github.com/ryancswallace/resume">Resume</a> ·
   <a href="https://www.linkedin.com/in/ryancswallace/">LinkedIn</a> ·
   <a href="mailto:ryan@ryancswallace.dev">Email</a>
 </p>
