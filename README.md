@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ryan Wallace
 
-<!--
-**ryancswallace/ryancswallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software engineer and data scientist building large-scale data platforms, production analytics systems, and tools for research and engineering teams.**
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://ryancswallace.dev">Website</a> ·
+  <a href="https://github.com/ryancswallace/resume">Résumé</a> ·
+  <a href="https://www.linkedin.com/in/ryancswallace/">LinkedIn</a> ·
+  <a href="mailto:ryan@ryancswallace.dev">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work has spanned data and ML infrastructure, applied modeling, distributed data processing, cloud architecture, and developer experience.
+
+- **Data and ML systems:** Spark, Airflow, AWS data lakehouses, OLAP systems, stream processing, and model serving
+- **Software engineering:** Python, SQL, Go, Bash, typed APIs, automated testing, packaging, and CI/CD
+- **Applied ML and statistics:** time-series analysis, classification, clustering, search and matching, model explanation, and LLM applications
+- **Infrastructure and operations:** Docker, Terraform, Ansible, Linux, REST APIs, and system automation
+- **Observability:** Prometheus, Grafana, and CloudWatch
