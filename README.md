@@ -13,6 +13,6 @@ My work has spanned data and ML infrastructure, applied modeling, distributed da
 
 - **Data and ML systems:** Spark, Airflow, AWS data lakehouses, OLAP systems, stream processing, and model serving
 - **Software engineering:** Python, SQL, Go, Bash, typed APIs, automated testing, packaging, and CI/CD
-- **Applied ML and statistics:** time-series analysis, classification, clustering, search and matching, model explanation, and LLM applications
+- **Applied ML and statistics:** LLM applications, time-series analysis, classification, clustering, search and matching, and model explanation
 - **Infrastructure and operations:** Docker, Terraform, Ansible, Linux, REST APIs, and system automation
 - **Observability:** Prometheus, Grafana, and CloudWatch
