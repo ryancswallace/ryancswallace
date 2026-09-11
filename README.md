@@ -41,13 +41,16 @@ developer tools, and infrastructure.**
 ## Technical focus
 
 - **Data and ML systems:** Data pipelines, model workflows, evaluation systems,
-  Spark, Airflow, SQL, and AWS
-- **Software engineering:** Python, Go, typed interfaces, automated testing,
-  packaging, and CI/CD
-- **Applied ML and statistics:** LLM applications, time-series analysis,
+  batch and stream processing, Spark, Airflow, Apache Iceberg, PostgreSQL, SQL,
+  and AWS
+- **Software engineering:** Python, Go, API design, typed interfaces, automated
+  testing, packaging, performance engineering, and CI/CD
+- **ML engineering and applied statistics:** LLM applications, RAG, LoRA
+  fine-tuning, model serving and evaluation, time-series and Bayesian analysis,
   classification, clustering, search and matching, and model explanation
-- **Platforms and developer tools:** Job execution, containers, observability,
-  infrastructure automation, and reproducible development workflows
+- **Platforms and developer tools:** Distributed job execution, containerization
+  with Docker, infrastructure as code and automation, Linux, observability,
+  authentication, release automation, and reproducible development workflows
 
 I’m interested in software engineering and ML/AI engineering roles,
 particularly work involving data systems, platforms, and developer
