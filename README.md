@@ -3,8 +3,7 @@
 **Software and machine learning engineer building reliable data and ML systems,
 developer tools, and infrastructure.**
 
-I’m a Lead Data Scientist at the Federal Reserve Bank of Boston, where I’ve
-worked since December 2019.
+I’m a Lead Data Scientist at the Federal Reserve Bank of Boston.
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
